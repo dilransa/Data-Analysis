@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dilransa
 - 👀 I’m interested in Explore Data 
-- 🌱 I’m currently learning in university of Colombo
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying at university of Colombo
 - 📫 How to reach me dilransa@gmail.com
 
 <!---
